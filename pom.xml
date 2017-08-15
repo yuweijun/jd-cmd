@@ -42,7 +42,7 @@
 	<repositories>
 		<repository>
 			<id>jd-core</id>
-			<url>https://raw.github.com/java-decompiler/mvn-repo/master</url>
+			<url>https://github.com/java-decompiler/mvn-repo/blob/master</url>
 		</repository>
 	</repositories>
 </project>
